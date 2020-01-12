@@ -1,0 +1,93 @@
+html {
+    scroll-behavior: smooth;
+    box-sizing: border-box   
+   }
+body{
+    background-color: #f7e0a3;   
+}  
+#contenido{
+    width: 68%;
+    background-color: #f7e0a3;
+    font-family: 'Montserrat', sans-serif;
+    color: #414141;
+    text-align: justify;
+    text-decoration: none;
+    float: right;   
+}
+h3{
+    font-size: 1.8em;
+    font-weight: 500;
+}
+h1{
+    font-size: 3.5em;
+    font-weight: 600;
+    text-align: center;
+}
+h2{
+    font-size: 2.3em;
+    font-weight: 600;
+    text-align: center;   
+}
+.titulo{
+    color: #00a79d;   
+}
+p{
+    font-size: 1.6em;
+}
+ol li{
+    font-size: 1.5em;
+    list-style-type: disc;
+}
+p.informacion{
+    font-style: italic;
+}
+#perfil{
+    background-color: #fffde8;
+    padding: 2%;
+    margin-bottom: 1%;  
+}
+#formacion{
+    background-color: #fffde8;
+    padding: 2%;
+    margin-bottom: 1%;    
+}
+#experiencia{
+    background-color: #fffde8;
+    padding: 2%;
+    margin-bottom: 1%;  
+}
+#idiomas{
+    background-color: #fffde8;
+    padding: 2%;
+    margin-bottom: 1%    
+}
+#botonera{
+    width: 24%;
+    margin-top: 0%;
+    padding: 2%;
+    background-color: #fffde8;
+    float: left;
+    position: fixed;   
+}
+img{
+    display: block;
+    margin: auto;
+}
+ol.menu{ 
+    padding-inline-start: 0%;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.5em;    
+}
+ol.menu li{
+    list-style-type: none;
+    background-color: #00a79d;
+    border: 10px solid #f7e0a3;
+    font-family: 'Montserrat', sans-serif;
+}
+a{ 
+    text-decoration: none;
+    color: #414141;     
+}
